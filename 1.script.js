@@ -3,6 +3,7 @@ var locationmgrName = "JOHN";
 var age = 10;
 var age1 = 20;
 var age2 = 20;
+// ctrl + c you can stop to watch
 //Check the .ts file
 //=========================
 //1. as save just check the .js file
